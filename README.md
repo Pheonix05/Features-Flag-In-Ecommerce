@@ -1,4 +1,7 @@
 ﻿# Features Flag Implementation in Ecommerce
+Implementation of Feature Flags for A/B Testing and Dynamic Sales Management in an E-commerce Website
+
+Developed a comprehensive e-commerce clothing website using Spring Boot and React.js, integrating Tailwind CSS and React MUI for a modern UI/UX. Implemented JWT authentication, Features Toggles for on/off sale for specific product and switch UI of website pages and MySQL database for robust user, product, and order management
 
 ## Problem Statement
 
